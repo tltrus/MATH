@@ -13,3 +13,9 @@ The method of least squares is a parameter estimation method in regression analy
 Application describes 2 variants of calculation.
 
 ![image](https://github.com/tltrus/MATH/assets/77125487/de1a1313-0163-4e82-b591-a507d39af877)
+
+
+# Lagrange+Newton+polynomial
+Lagrange and Newton polynomials visualization.
+
+![image](https://github.com/tltrus/MATH/assets/77125487/c6c538f7-6a6b-4741-a8e3-c2410f08958a)
