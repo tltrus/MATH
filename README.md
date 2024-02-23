@@ -19,3 +19,9 @@ Application describes 2 variants of calculation.
 Lagrange and Newton polynomials visualization.
 
 ![image](https://github.com/tltrus/MATH/assets/77125487/c6c538f7-6a6b-4741-a8e3-c2410f08958a)
+
+
+# SimpleLinearRegression Gradient+Squares
+2 ways of linear regression
+
+![image](https://github.com/tltrus/MATH/assets/77125487/ea342da9-7db1-49a5-bf13-1ee0bbe98c2d)
