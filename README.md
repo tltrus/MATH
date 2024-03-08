@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=FyXkh9Pvxio&list=PLclZn2f4tNVjERjMstjSw5fto4mJ99
 # Fractals
 Few fractals drawing
 
+https://youtu.be/8IC2EQ0mNQw
+
 ![image](https://github.com/tltrus/MATH/assets/77125487/31a19d7a-c58f-4b77-a776-513943c06760)
 
 
