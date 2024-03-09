@@ -26,6 +26,8 @@ Application describes 2 variants of calculation.
 # Lagrange+Newton+polynomial
 Lagrange and Newton polynomials visualization.
 
+https://youtu.be/1yXby9m1UwA
+
 ![image](https://github.com/tltrus/MATH/assets/77125487/c6c538f7-6a6b-4741-a8e3-c2410f08958a)
 
 
