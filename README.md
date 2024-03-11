@@ -32,6 +32,7 @@ https://youtu.be/1yXby9m1UwA
 
 # RDP algorithm
 The Ramer–Douglas–Peucker algorithm (RDP) is an algorithm for reducing the number of points in a curve that is approximated by a series of points.
+
 Based on Coding Challenge #152: RDP Line Simplification Algorithm https://www.youtube.com/watch?v=nSYw9GrakjY
 
 https://youtu.be/rgHWk7o42hU
