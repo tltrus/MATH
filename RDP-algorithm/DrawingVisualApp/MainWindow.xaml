@@ -1,0 +1,16 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        mc:Ignorable="d"
+        Title="Ramer-Douglas-Peucker Algorithm" Height="395.118" Width="505.288">
+    <Grid>
+        <StackPanel Margin="5">
+            <Label x:Name="lbEpsilon" Content="e" />
+            <Label x:Name="lbN" Content="n" />
+            <local:DrawingVisualClass x:Name="g" Background="Black" Margin="5" Width="476" Height="300" />
+        </StackPanel>
+    </Grid>
+</Window>
