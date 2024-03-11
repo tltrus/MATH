@@ -30,6 +30,14 @@ https://youtu.be/1yXby9m1UwA
 
 ![image](https://github.com/tltrus/MATH/assets/77125487/c6c538f7-6a6b-4741-a8e3-c2410f08958a)
 
+# RDP algorithm
+The Ramer–Douglas–Peucker algorithm (RDP) is an algorithm for reducing the number of points in a curve that is approximated by a series of points.
+Based on Coding Challenge #152: RDP Line Simplification Algorithm https://www.youtube.com/watch?v=nSYw9GrakjY
+
+https://youtu.be/rgHWk7o42hU
+
+![image](https://github.com/tltrus/MATH/assets/77125487/d5116e2a-ac38-4ea1-b86f-690d57625dbb)
+
 
 # SimpleLinearRegression Gradient+Squares
 2 ways of linear regression
