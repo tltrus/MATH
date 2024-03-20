@@ -46,3 +46,12 @@ https://youtu.be/rgHWk7o42hU
 https://youtu.be/0fDPwdD-dro
 
 ![image](https://github.com/tltrus/MATH/assets/77125487/ea342da9-7db1-49a5-bf13-1ee0bbe98c2d)
+
+# Superformula
+
+C# math algorithm
+
+https://youtu.be/GxZNwTyq5aA
+
+![image](https://github.com/tltrus/MATH/assets/77125487/0d4a081d-1a82-44fc-9979-150ad3e33078)
+
