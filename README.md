@@ -35,6 +35,6 @@ The Ramer–Douglas–Peucker algorithm (RDP) is an algorithm for reducing the n
 # SimpleLinearRegression Gradient+Squares
 2 ways of linear regression
 
-https://youtu.be/0fDPwdD-dro
+- Youtube: https://youtu.be/0fDPwdD-dro
 
 ![image](https://github.com/tltrus/MATH/assets/77125487/ea342da9-7db1-49a5-bf13-1ee0bbe98c2d)
