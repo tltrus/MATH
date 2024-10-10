@@ -11,6 +11,7 @@ Few fractals drawing
 
 # Gift-wrapping
 
+“Gift Wrapping algorithm” (Jarvis march).
 - Based on: #148 — Gift Wrapping Algorithm https://thecodingtrain.com/challenges/148-gift-wrapping
 - Youtube:
 
