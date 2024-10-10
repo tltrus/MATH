@@ -1,0 +1,19 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        mc:Ignorable="d"
+        Title="Wrapping Algorithm" Height="735" Width="990">
+    <Grid>
+        <WrapPanel>
+            <local:DrawingVisualClass x:Name="g" Background="Black" Height="690" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="822"/>
+            <StackPanel>
+                <Button Name="btnClear" Content="Clear" HorizontalAlignment="Left" Height="74" Margin="5" VerticalAlignment="Top" Width="127" Click="btnClear_Click"/>
+                <Button Name="btnStart" Content="Start Timer" HorizontalAlignment="Left" Height="74" Margin="5" VerticalAlignment="Top" Width="127" Click="btnStart_Click"/>
+                <Button Name="btnStep" Content="Step" HorizontalAlignment="Left" Height="77" Margin="5" VerticalAlignment="Top" Width="127" Click="btnStep_Click"/>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>
