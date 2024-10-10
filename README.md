@@ -4,9 +4,17 @@ C# app
 # Fractals
 Few fractals drawing
 
-https://youtu.be/8IC2EQ0mNQw
+- Youtube: https://youtu.be/8IC2EQ0mNQw
 
 ![image](https://github.com/tltrus/MATH/assets/77125487/31a19d7a-c58f-4b77-a776-513943c06760)
+
+
+# Gift-wrapping
+
+- Based on: #148 — Gift Wrapping Algorithm https://thecodingtrain.com/challenges/148-gift-wrapping
+- Youtube:
+
+![image](https://github.com/user-attachments/assets/25c77518-98a7-4d5c-8d48-e289a08a4716)
 
 
 # LeastSquares
