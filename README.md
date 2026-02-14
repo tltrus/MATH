@@ -18,6 +18,15 @@ Few fractals drawing
 ![image](https://github.com/user-attachments/assets/25c77518-98a7-4d5c-8d48-e289a08a4716)
 
 
+# InterpolationVisualizer
+
+- Based on: "Chapter 7: Interpolation (from Book Numerical Methods, Algorithms and Tools in C# / Waldemar Dos Passos"
+- Youtube:
+- Rutube: 
+
+<img width="961" height="563" alt="image" src="https://github.com/user-attachments/assets/6e4269f3-1a44-4392-9e98-6b420ec23a8a" />
+
+
 # LeastSquares
 The method of least squares is a parameter estimation method in regression analysis.
 Application describes 2 variants of calculation.
