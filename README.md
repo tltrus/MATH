@@ -1,6 +1,14 @@
 # Math
 C# app
 
+- Fractals
+- Gift-wrapping
+- InterpolationVisualizer
+- LeastSquares
+- Lagrange+Newton+polynomial
+- RDP algorithm
+- SimpleLinearRegression Gradient+Squares
+
 # Fractals
 Few fractals drawing
 
@@ -19,6 +27,8 @@ Few fractals drawing
 
 
 # InterpolationVisualizer
+
+C# Interpolation methods.
 
 - Based on: "Chapter 7: Interpolation (from Book Numerical Methods, Algorithms and Tools in C# / Waldemar Dos Passos"
 - Youtube:
