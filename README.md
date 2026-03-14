@@ -31,7 +31,7 @@ Few fractals drawing
 C# Interpolation methods.
 
 - Based on: "Chapter 7: Interpolation (from Book Numerical Methods, Algorithms and Tools in C# / Waldemar Dos Passos"
-- Youtube: https://youtu.be/G5hV5XZcb1A
+- Youtube: https://youtu.be/OSSGamDx-y8
 - Rutube: https://rutube.ru/video/2cab6f2cabf882c12409aa9e65a4fa40/
 
 <img width="961" height="563" alt="image" src="https://github.com/user-attachments/assets/6e4269f3-1a44-4392-9e98-6b420ec23a8a" />
